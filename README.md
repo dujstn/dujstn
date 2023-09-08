@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin!
 - 👀 I love computers, music, and Ultimate Frisbee
-- 🌱 I’m currently prospecting studies in Computer Science
+- 🌱 I’m currently studying Computer Science at the University of Toronto
 - 🤗 Check out some of my projects on [Hugging Face](https://huggingface.co/kworts)
 - 📫 Want to reach out? Email me or find me on LinkedIn!
 
